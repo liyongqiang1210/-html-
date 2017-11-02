@@ -27,19 +27,19 @@ var navs = [{
 		{
 			"title" : "新浪新闻",
 			"icon" : "&#xe631;",
-			"href" : "",
+			"href" : "page/news/sinaNewsList.html",
 			"spread" : false
 		},
 		{
 			"title" : "腾讯新闻",
 			"icon" : "&#xe631;",
-			"href" : "",
+			"href" : "page/news/sinaNewsList.html",
 			"spread" : false
 		},
 		{
 			"title" : "搜狐新闻",
 			"icon" : "&#xe631;",
-			"href" : "",
+			"href" : "page/news/sinaNewsList.html",
 			"spread" : false
 		}
 	]
@@ -50,15 +50,15 @@ var navs = [{
 	"spread" : false,
 	"children" : [
 		{
-			"title" : "后端技术",
+			"title" : "博客园数据列表",
 			"icon" : "&#xe631;",
-			"href" : "",
+			"href" : "page/blog/bokeyuanBlogList.html",
 			"spread" : false
 		},
 		{
-			"title" : "前端技术",
+			"title" : "CSDN数据列表",
 			"icon" : "&#xe631;",
-			"href" : "",
+			"href" : "page/blog/bokeyuanBlogList.html",
 			"spread" : false
 		}
 	]
