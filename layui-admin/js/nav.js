@@ -25,25 +25,19 @@ var navs = [{
 	"spread" : false,
 	"children" : [
 		{
-			"title" : "国际新闻",
+			"title" : "新浪新闻",
 			"icon" : "&#xe631;",
 			"href" : "",
 			"spread" : false
 		},
 		{
-			"title" : "国内新闻",
+			"title" : "腾讯新闻",
 			"icon" : "&#xe631;",
 			"href" : "",
 			"spread" : false
 		},
 		{
-			"title" : "军事新闻",
-			"icon" : "&#xe631;",
-			"href" : "",
-			"spread" : false
-		},
-		{
-			"title" : "体育新闻",
+			"title" : "搜狐新闻",
 			"icon" : "&#xe631;",
 			"href" : "",
 			"spread" : false
